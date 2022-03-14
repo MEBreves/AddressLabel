@@ -2,7 +2,7 @@
 'RCET0265
 'Spring 2022
 'Address Label Program
-'github url
+'https://github.com/MEBreves/AddressLabel
 
 Option Strict On
 Option Explicit On
